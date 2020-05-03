@@ -12523,7 +12523,7 @@
   (gr_text 1.5U (at 52.8955 195.474794) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
-  (gr_text STANDARD (at 55.7149 157.5435) (layer F.SilkS)
+  (gr_text STANDARD (at 53.81 157.5435) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
   (gr_text "ZENER DIODES" (at 214.3633 73.9267 90) (layer F.SilkS)
