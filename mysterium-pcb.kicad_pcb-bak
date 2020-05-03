@@ -12411,7 +12411,7 @@
   (gr_text 1.25U (at 95.6691 195.474794) (layer F.SilkS) (tstamp 5DB4884C)
     (effects (font (size 1 1) (thickness 0.1)))
   )
-  (gr_text 1.25U (at 71.8947 195.474794) (layer F.SilkS) (tstamp 5DB4884A)
+  (gr_text 1.25U (at 72.83 195.474794) (layer F.SilkS) (tstamp 5DB4884A)
     (effects (font (size 1 1) (thickness 0.1)))
   )
   (gr_text 1.25U (at 48.99 195.474794) (layer F.SilkS)
