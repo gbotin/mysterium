@@ -1,5 +1,5 @@
 (fp_lib_table
   (lib (name fractory)(type KiCad)(uri ${KIPRJMOD}/fractory.pretty)(options "")(descr ""))
-  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/keyswitches.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/keyswitches.pretty)(options "")(descr "")(disabled))
   (lib (name cftkb)(type KiCad)(uri ${KIPRJMOD}/cftkb.pretty)(options "")(descr ""))
 )
